@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\grouprequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\grouprequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\grouprequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\grouprequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\keeperpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\keeperpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\myrequestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\myrequestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\myrequestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\myrequestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 301,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:23:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\App.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml",
+              "RelativeToolTip": "KeeperPRO\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T08:15:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\AssemblyInfo.cs",
+              "RelativeToolTip": "KeeperPRO\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:44:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "ToolTip": "C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-16T07:16:29.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupRequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\GroupRequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml.cs*",
+              "RelativeToolTip": "KeeperPRO\\GroupRequestWindow.xaml.cs*",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAwwBMBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:13:48.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupRequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\GroupRequestWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\GroupRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T07:13:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyRequestsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAowEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:17:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyRequestsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\MyRequestsWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\MyRequestsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:16:50.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\RequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\RequestWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:16:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\RequestWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\RequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:16:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:15:31.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:15:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeeperPRO.csproj",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\KeeperPRO.csproj",
+              "RelativeDocumentMoniker": "KeeperPRO\\KeeperPRO.csproj",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\KeeperPRO.csproj",
+              "RelativeToolTip": "KeeperPRO\\KeeperPRO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T06:12:12.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MainWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:10:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv0sAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:10:43.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

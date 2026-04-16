@@ -1,0 +1,166 @@
+﻿<Window x:Class="KeeperPRO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MAX.Х.ПРО - Система контроля пропускного режима" 
+        Height="650" Width="900"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель - светлая -->
+        <Border Grid.Row="0" Background="#F5F5F5" Padding="15" BorderBrush="#E0E0E0" BorderThickness="0,0,0,1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <TextBlock Text="MAX.Х.ПРО" FontSize="24" FontWeight="Bold" Foreground="#333333"/>
+                    <TextBlock Text="Система контроля пропускного режима и учёта посещений" 
+                               FontSize="12" Foreground="#666666"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" HorizontalAlignment="Right">
+                    <TextBlock x:Name="UserInfoText" Text="Не авторизован" FontSize="14" 
+                               Foreground="#666666" TextAlignment="Right"/>
+                    <TextBlock x:Name="UserRoleText" Text="" FontSize="11" 
+                               Foreground="#999999" TextAlignment="Right"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Основное содержимое -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="260"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Левое меню - светлое -->
+            <Border Grid.Column="0" Background="#FAFAFA" CornerRadius="0" BorderBrush="#E0E0E0" BorderThickness="0,0,1,0">
+                <StackPanel Margin="0,10">
+                    <Border Background="#EEEEEE" Padding="12" Margin="10,0,10,10" CornerRadius="8">
+                        <TextBlock Text="МЕНЮ" FontWeight="Bold" Foreground="#555555" FontSize="14"/>
+                    </Border>
+
+                    <Button x:Name="NewRequestBtn" Content="Новая заявка" Height="40" 
+                            Margin="10,5" HorizontalAlignment="Stretch"
+                            Background="#E0E0E0" Foreground="#333333" FontSize="13" BorderThickness="0"
+                            Click="NewRequestBtn_Click" Visibility="Collapsed"/>
+
+                    <Button x:Name="GroupRequestBtn" Content="Групповая заявка" Height="40" 
+                            Margin="10,5" HorizontalAlignment="Stretch"
+                            Background="#E0E0E0" Foreground="#333333" FontSize="13" BorderThickness="0"
+                            Click="GroupRequestBtn_Click" Visibility="Collapsed"/>
+
+                    <Button x:Name="MyRequestsBtn" Content="Мои заявки" Height="40" 
+                            Margin="10,5" HorizontalAlignment="Stretch"
+                            Background="#E0E0E0" Foreground="#333333" FontSize="13" BorderThickness="0"
+                            Click="MyRequestsBtn_Click" Visibility="Collapsed"/>
+
+                    <Separator Margin="10,15" Background="#DDDDDD"/>
+
+                    <Button x:Name="LoginBtn" Content="Вход в систему" Height="40" 
+                            Margin="10,5" HorizontalAlignment="Stretch"
+                            Background="#2196F3" Foreground="White" FontSize="13" BorderThickness="0"
+                            Click="LoginBtn_Click"/>
+
+                    <Button x:Name="RegisterBtn" Content="Регистрация" Height="40" 
+                            Margin="10,5" HorizontalAlignment="Stretch"
+                            Background="#4CAF50" Foreground="White" FontSize="13" BorderThickness="0"
+                            Click="RegisterBtn_Click"/>
+
+                    <Separator Margin="10,15" Background="#DDDDDD"/>
+
+                    <Button x:Name="LogoutBtn" Content="Выход из системы" Height="40" 
+                            Margin="10,5" HorizontalAlignment="Stretch"
+                            Background="#F44336" Foreground="White" FontSize="13" BorderThickness="0"
+                            Click="LogoutBtn_Click" Visibility="Collapsed"/>
+
+                    <Border Background="#EEEEEE" CornerRadius="8" Margin="10,20" Padding="12">
+                        <StackPanel>
+                            <TextBlock Text="О системе" Foreground="#555555" 
+                                       FontWeight="Bold" FontSize="12" Margin="0,0,0,5"/>
+                            <TextBlock Text="Версия: 1.0" Foreground="#888888" FontSize="10"/>
+                            <TextBlock Text="© 2026 ооо МАХ" Foreground="#888888" FontSize="10"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Border>
+
+            <!-- Правая область - контент -->
+            <Border Grid.Column="1" Background="#FFFFFF" CornerRadius="0" Padding="20">
+                <StackPanel x:Name="ContentPanel">
+                    <Border Background="#F8F9FA" CornerRadius="12" Padding="30" Margin="0,0,0,20" BorderBrush="#E0E0E0" BorderThickness="1">
+                        <StackPanel>
+                            <TextBlock x:Name="WelcomeText" 
+                                       Text="Добро пожаловать в систему MAX.Х.ПРО" 
+                                       FontSize="22" FontWeight="Bold" Foreground="#333333"
+                                       TextWrapping="Wrap"/>
+                            <TextBlock Text="Для оформления пропуска на предприятие необходимо авторизоваться или зарегистрироваться" 
+                                       FontSize="14" Foreground="#666666" Margin="0,10,0,0"
+                                       TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Background="#F8F9FA" CornerRadius="12" Margin="0,0,10,0" Padding="15" BorderBrush="#E0E0E0" BorderThickness="1">
+                            <StackPanel>
+                                <TextBlock Text="Личное посещение" FontWeight="Bold" Foreground="#333333" FontSize="14" Margin="0,0,0,5"/>
+                                <TextBlock Text="Оформление индивидуального пропуска" Foreground="#666666" FontSize="11" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Grid.Column="1" Background="#F8F9FA" CornerRadius="12" Margin="10,0,10,0" Padding="15" BorderBrush="#E0E0E0" BorderThickness="1">
+                            <StackPanel>
+                                <TextBlock Text="Групповое посещение" FontWeight="Bold" Foreground="#333333" FontSize="14" Margin="0,0,0,5"/>
+                                <TextBlock Text="Оформление экскурсионных групп (от 5 человек)" Foreground="#666666" FontSize="11" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Grid.Column="2" Background="#F8F9FA" CornerRadius="12" Margin="10,0,0,0" Padding="15" BorderBrush="#E0E0E0" BorderThickness="1">
+                            <StackPanel>
+                                <TextBlock Text="Статус заявок" FontWeight="Bold" Foreground="#333333" FontSize="14" Margin="0,0,0,5"/>
+                                <TextBlock Text="Отслеживание статуса проверки" Foreground="#666666" FontSize="11" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+
+                    <Border Background="#F8F9FA" CornerRadius="12" Padding="20" Margin="0,20,0,0" BorderBrush="#E0E0E0" BorderThickness="1">
+                        <StackPanel>
+                            <TextBlock Text="Требования к оформлению заявки" FontWeight="Bold" FontSize="14" Foreground="#333333" Margin="0,0,0,10"/>
+                            <TextBlock Text="• Минимальный срок подачи - за 1 день до посещения" FontSize="12" Margin="10,2" Foreground="#555555"/>
+                            <TextBlock Text="• Максимальный срок - за 15 дней до посещения" FontSize="12" Margin="10,2" Foreground="#555555"/>
+                            <TextBlock Text="• Паспортные данные: серия (4 цифры), номер (6 цифр)" FontSize="12" Margin="10,2" Foreground="#555555"/>
+                            <TextBlock Text="• Посетитель должен быть старше 16 лет" FontSize="12" Margin="10,2" Foreground="#555555"/>
+                            <TextBlock Text="• Обязательно прикрепление скана паспорта (PDF)" FontSize="12" Margin="10,2" Foreground="#555555"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Border>
+        </Grid>
+
+        <!-- Нижняя панель -->
+        <Border Grid.Row="2" Background="#F5F5F5" Padding="8" BorderBrush="#E0E0E0" BorderThickness="0,1,0,0">
+            <Grid>
+                <TextBlock Text="© 2026 MAX.Х.ПРО - Система контроля пропускного режима" 
+                           Foreground="#999999" HorizontalAlignment="Left" FontSize="11"/>
+                <TextBlock x:Name="ConnectionStatusText" Text="Подключено к БД" 
+                           Foreground="#4CAF50" HorizontalAlignment="Right" FontSize="11"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
