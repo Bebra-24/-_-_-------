@@ -1,0 +1,30 @@
+﻿<Window x:Class="KeeperPRO.RejectionReasonDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Причина отказа" Height="250" Width="450"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Укажите причину отказа" FontSize="16" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,15"/>
+
+        <ComboBox x:Name="ReasonCombo" Grid.Row="1" Height="35" Margin="0,0,0,15" IsEditable="True">
+            <ComboBoxItem Content="Указаны недостоверные данные"/>
+            <ComboBoxItem Content="Отсутствуют прикрепленные файлы"/>
+            <ComboBoxItem Content="Низкое качество прикрепленных файлов"/>
+            <ComboBoxItem Content="Несоответствие паспортных данных"/>
+            <ComboBoxItem Content="Другое"/>
+        </ComboBox>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20">
+            <Button Content="OK" Width="80" Height="35" Margin="5" Background="#4CAF50" Foreground="White" Click="OkBtn_Click"/>
+            <Button Content="Отмена" Width="80" Height="35" Margin="5" Background="#F44336" Foreground="White" Click="CancelBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

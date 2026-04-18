@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.AddToBlacklistDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавление в черный список" Height="350" Width="450"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Добавление посетителя в черный список" 
+                   FontSize="16" FontWeight="Bold" Margin="0,0,0,15" HorizontalAlignment="Center"/>
+
+        <Border Grid.Row="1" Background="#FFF3CD" CornerRadius="5" Padding="10" Margin="0,0,0,15">
+            <TextBlock x:Name="VisitorNameText" Text="Посетитель:" FontWeight="Bold" FontSize="14"/>
+        </Border>
+
+        <TextBlock Grid.Row="2" Text="Причина добавления:" Margin="0,5" Foreground="#555555" FontWeight="Bold"/>
+        <TextBox x:Name="ReasonBox" Grid.Row="3" Height="120" TextWrapping="Wrap" 
+                 AcceptsReturn="True" VerticalScrollBarVisibility="Auto" 
+                 BorderBrush="#E0E0E0" BorderThickness="1" Padding="5"/>
+
+        <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20">
+            <Button Content="Добавить" Width="100" Height="40" Margin="5" 
+                    Background="#F44336" Foreground="White" Click="AddBtn_Click"/>
+            <Button Content="Отмена" Width="100" Height="40" Margin="5" 
+                    Background="#2196F3" Foreground="White" Click="CancelBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

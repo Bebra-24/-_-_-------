@@ -1,0 +1,104 @@
+﻿<Window x:Class="KeeperPRO.EmployeeTerminalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MAX.Х.ПРО - Терминал сотрудника общего отдела" 
+        Height="650" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        >
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель -->
+        <Border Grid.Row="0" Background="#1a237e" Padding="15">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <TextBlock Text="MAX.Х.ПРО - Терминал сотрудника общего отдела" FontSize="20" FontWeight="Bold" Foreground="White"/>
+                    <TextBlock x:Name="UserInfoText" Text="Не авторизован" FontSize="12" Foreground="#b0bec5"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" HorizontalAlignment="Right">
+                    <Button x:Name="LogoutBtn" Content="Выход" Height="30" Width="80" 
+                            Background="#C62828" Foreground="White" Click="LogoutBtn_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Основное содержимое -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="280"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Левая панель - фильтры -->
+            <Border Grid.Column="0" Background="#FAFAFA" CornerRadius="8" Padding="15" BorderBrush="#E0E0E0" BorderThickness="1">
+                <StackPanel>
+                    <TextBlock Text="Фильтры" FontSize="16" FontWeight="Bold" Foreground="#333333" Margin="0,0,0,15"/>
+
+                    <TextBlock Text="Тип заявки" Margin="0,5" Foreground="#555555"/>
+                    <ComboBox x:Name="TypeFilterCombo" Height="32" Margin="0,0,0,15" SelectionChanged="Filter_Changed">
+                        <ComboBoxItem Content="Все" IsSelected="True"/>
+                        <ComboBoxItem Content="личная"/>
+                        <ComboBoxItem Content="групповая"/>
+                    </ComboBox>
+
+                    <TextBlock Text="Подразделение" Margin="0,5" Foreground="#555555"/>
+                    <ComboBox x:Name="DepartmentFilterCombo" Height="32" Margin="0,0,0,15" 
+                              DisplayMemberPath="название" SelectedValuePath="код_подразделения"
+                              SelectionChanged="Filter_Changed"/>
+
+                    <TextBlock Text="Статус" Margin="0,5" Foreground="#555555"/>
+                    <ComboBox x:Name="StatusFilterCombo" Height="32" Margin="0,0,0,15" SelectionChanged="Filter_Changed">
+                        <ComboBoxItem Content="Все" IsSelected="True"/>
+                        <ComboBoxItem Content="на проверке"/>
+                        <ComboBoxItem Content="одобрена"/>
+                        <ComboBoxItem Content="не одобрена"/>
+                    </ComboBox>
+
+                    <Button x:Name="ResetFiltersBtn" Content="Сбросить фильтры" Height="35" Margin="0,20,0,0"
+                            Background="#2196F3" Foreground="White" Click="ResetFiltersBtn_Click"/>
+                </StackPanel>
+            </Border>
+
+            <!-- Правая панель - список заявок -->
+            <Border Grid.Column="1" Background="White" CornerRadius="8" Padding="10" Margin="10,0,0,0" BorderBrush="#E0E0E0" BorderThickness="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Список заявок" FontSize="16" FontWeight="Bold" Foreground="#333333" Margin="0,0,0,10"/>
+
+                    <DataGrid x:Name="RequestsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True"
+                              AlternatingRowBackground="#F5F5F5" FontSize="12" 
+                              SelectionChanged="RequestsGrid_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Тип" Binding="{Binding тип_заявки}" Width="80"/>
+                            <DataGridTextColumn Header="ID" Binding="{Binding id}" Width="50"/>
+                            <DataGridTextColumn Header="Посетитель" Binding="{Binding фио_посетителя}" Width="150"/>
+                            <DataGridTextColumn Header="Дата" Binding="{Binding дата_начала, StringFormat='dd.MM.yyyy'}" Width="100"/>
+                            <DataGridTextColumn Header="Цель" Binding="{Binding цель}" Width="150"/>
+                            <DataGridTextColumn Header="Статус" Binding="{Binding статус}" Width="120"/>
+                            <DataGridTextColumn Header="Подразделение" Binding="{Binding подразделение}" Width="120"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </Border>
+        </Grid>
+
+        <!-- Нижняя панель -->
+        <Border Grid.Row="2" Background="#F5F5F5" Padding="8" BorderBrush="#E0E0E0" BorderThickness="0,1,0,0">
+            <TextBlock x:Name="CountText" Text="Всего заявок: 0" Foreground="#666666" FontSize="11"/>
+        </Border>
+    </Grid>
+</Window>

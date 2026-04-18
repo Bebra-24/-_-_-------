@@ -1,0 +1,875 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\departmentrequestworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departmentrequestworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\departmentrequestworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departmentrequestworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\departmentterminalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departmentterminalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\departmentterminalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departmentterminalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\departmentloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departmentloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\departmentloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departmentloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\securityrequestworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\securityrequestworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\securityrequestworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\securityrequestworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\securityterminalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\securityterminalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\securityterminalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\securityterminalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\securityloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\securityloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\securityloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\securityloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\addtoblacklistdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addtoblacklistdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\requestworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\requestworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\addtoblacklistdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addtoblacklistdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deb29\\AppData\\Local\\Temp\\.vsdbgsrc\\3814d3c3777c4e4ed3233b0e342dec3450b58aaac1d516143371cc7820f03244\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\requestdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\requestdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\wpfapp1\\requestworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B621C7B-A6AE-485B-8D7C-1E461E9E5ADB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\requestworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\requestdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\requestdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\employeeterminalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\employeeterminalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\employeeterminalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\employeeterminalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\keeperpro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\keeperpro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\employeeloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\employeeloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\grouprequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\grouprequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deb29\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\build\\net40\\NugetPackageRestore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\myrequestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\myrequestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\keeperpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\keeperpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deb29\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\employeeloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\employeeloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\grouprequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\grouprequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\setvisitdatetimedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\setvisitdatetimedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\rejectionreasondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\rejectionreasondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\rejectionreasondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\rejectionreasondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\setvisitdatetimedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\setvisitdatetimedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|c:\\users\\deb29\\source\\repos\\keeperpro\\keeperpro\\myrequestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{778B8F57-BDE1-8234-CA8F-C34A012BF8BE}|KeeperPRO\\KeeperPRO.csproj|solutionrelative:keeperpro\\myrequestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 301,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentLoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentLoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartmentLoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentLoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\DepartmentLoginWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:44:42.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentLoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentLoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartmentLoginWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentLoginWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\DepartmentLoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T07:44:07.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentRequestWorkWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentRequestWorkWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartmentRequestWorkWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentRequestWorkWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\DepartmentRequestWorkWindow.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:33:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentRequestWorkWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentRequestWorkWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartmentRequestWorkWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentRequestWorkWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\DepartmentRequestWorkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T07:33:11.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecurityTerminalWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityTerminalWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SecurityTerminalWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityTerminalWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\SecurityTerminalWindow.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:12:30.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecurityTerminalWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityTerminalWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SecurityTerminalWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityTerminalWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\SecurityTerminalWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T07:11:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:32:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\AppData\\Local\\Temp\\.vsdbgsrc\\3814d3c3777c4e4ed3233b0e342dec3450b58aaac1d516143371cc7820f03244\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3814d3c3777c4e4ed3233b0e342dec3450b58aaac1d516143371cc7820f03244\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\deb29\\AppData\\Local\\Temp\\.vsdbgsrc\\3814d3c3777c4e4ed3233b0e342dec3450b58aaac1d516143371cc7820f03244\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3814d3c3777c4e4ed3233b0e342dec3450b58aaac1d516143371cc7820f03244\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAvwPEBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:31:21.417Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecurityLoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityLoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SecurityLoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityLoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\SecurityLoginWindow.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:29:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SecurityLoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityLoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SecurityLoginWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityLoginWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\SecurityLoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:29:02.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityRequestWorkWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityRequestWorkWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SecurityRequestWorkWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityRequestWorkWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\SecurityRequestWorkWindow.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:25:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecurityRequestWorkWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityRequestWorkWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SecurityRequestWorkWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\SecurityRequestWorkWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\SecurityRequestWorkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:24:15.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddToBlacklistDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\AddToBlacklistDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddToBlacklistDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\AddToBlacklistDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddToBlacklistDialog.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:21:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddToBlacklistDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\AddToBlacklistDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AddToBlacklistDialog.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\AddToBlacklistDialog.xaml",
+              "RelativeToolTip": "WpfApp1\\AddToBlacklistDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:20:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestWorkWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\RequestWorkWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\RequestWorkWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\RequestWorkWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\RequestWorkWindow.xaml.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAAJQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:20:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentTerminalWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentTerminalWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartmentTerminalWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentTerminalWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\DepartmentTerminalWindow.xaml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:18:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestWorkWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\RequestWorkWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\RequestWorkWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\RequestWorkWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\RequestWorkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:17:39.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentTerminalWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentTerminalWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartmentTerminalWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DepartmentTerminalWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\DepartmentTerminalWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T05:16:52.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:15:27.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\WpfApp1\\DatabaseHelper.cs",
+              "RelativeToolTip": "WpfApp1\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:12:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KeeperPRO",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\KeeperPRO.csproj",
+              "RelativeDocumentMoniker": "KeeperPRO\\KeeperPRO.csproj",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\KeeperPRO.csproj",
+              "RelativeToolTip": "KeeperPRO\\KeeperPRO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T10:44:01.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "ToolTip": "C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-17T10:32:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NugetPackageRestore.targets",
+              "DocumentMoniker": "C:\\Users\\deb29\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\build\\net40\\NugetPackageRestore.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\build\\net40\\NugetPackageRestore.targets",
+              "ToolTip": "C:\\Users\\deb29\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\build\\net40\\NugetPackageRestore.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\build\\net40\\NugetPackageRestore.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-17T10:24:24.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\deb29\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\readme.txt",
+              "ToolTip": "C:\\Users\\deb29\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\nugetpackagerestore\\1.0.5\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-17T10:23:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAKwCAAAAAAAAAABRwMICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-17T10:14:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAcwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-17T08:12:16.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeLoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeLoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\EmployeeLoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeLoginWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\EmployeeLoginWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:43:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeLoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeLoginWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\EmployeeLoginWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeLoginWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\EmployeeLoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T07:43:14.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RejectionReasonDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RejectionReasonDialog.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\RejectionReasonDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RejectionReasonDialog.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\RejectionReasonDialog.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:42:50.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RejectionReasonDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RejectionReasonDialog.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\RejectionReasonDialog.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RejectionReasonDialog.xaml",
+              "RelativeToolTip": "KeeperPRO\\RejectionReasonDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T07:42:29.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SetVisitDateTimeDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\SetVisitDateTimeDialog.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\SetVisitDateTimeDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\SetVisitDateTimeDialog.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\SetVisitDateTimeDialog.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:42:11.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SetVisitDateTimeDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\SetVisitDateTimeDialog.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\SetVisitDateTimeDialog.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\SetVisitDateTimeDialog.xaml",
+              "RelativeToolTip": "KeeperPRO\\SetVisitDateTimeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T07:41:45.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\RequestDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestDetailWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\RequestDetailWindow.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:41:20.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequestDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestDetailWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\RequestDetailWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestDetailWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\RequestDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T07:40:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeTerminalWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeTerminalWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\EmployeeTerminalWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeTerminalWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\EmployeeTerminalWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:40:32.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeTerminalWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeTerminalWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\EmployeeTerminalWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\EmployeeTerminalWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\EmployeeTerminalWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T07:39:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:23:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\App.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\App.xaml",
+              "RelativeToolTip": "KeeperPRO\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T08:15:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\AssemblyInfo.cs",
+              "RelativeToolTip": "KeeperPRO\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:44:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "ToolTip": "C:\\Users\\deb29\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\8.5.1\\readme.txt",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-16T07:16:29.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GroupRequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\GroupRequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\GroupRequestWindow.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:13:48.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GroupRequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\GroupRequestWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\GroupRequestWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\GroupRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T07:13:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MyRequestsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\MyRequestsWindow.xaml.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAuwJMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:17:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MyRequestsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\MyRequestsWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MyRequestsWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\MyRequestsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:16:50.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\RequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\RequestWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:16:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\RequestWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RequestWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\RequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:16:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\RegisterWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:15:31.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeeperPRO\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "KeeperPRO\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\LoginWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:15:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KeeperPRO.csproj",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\KeeperPRO.csproj",
+              "RelativeDocumentMoniker": "KeeperPRO\\KeeperPRO.csproj",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\KeeperPRO.csproj",
+              "RelativeToolTip": "KeeperPRO\\KeeperPRO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T06:12:12.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KeeperPRO\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\KeeperPRO\\KeeperPRO\\MainWindow.xaml",
+              "RelativeToolTip": "KeeperPRO\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T06:10:47.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
