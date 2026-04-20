@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Страница-1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Соединительная линия</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="2" UniqueID="{6C349C59-4D35-4DC1-BC57-65961A76CAC1}" Name="Подсистема" NameU="Subsystem" Master="8">
+					<Text>Имя</Text>
+					<XForm>
+						<PinX Unit="MM">5.274109705382253</PinX>
+						<PinY Unit="MM">3.892716608677791</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="1" UniqueID="{AB71A00B-EE92-4161-BC5B-83C3F4F0E3AE}" Name="Субъект" NameU="Actor" Master="7">
+					<Text>СОТРУДНИК</Text>
+					<XForm>
+						<PinX Unit="MM">1.811023645698415</PinX>
+						<PinY Unit="MM">5.019685122149177</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{8D627D3B-6778-460B-996E-1BA151F3F320}" Name="Субъект.7" NameU="Actor.7" Master="7">
+					<Text>пользователь</Text>
+					<XForm>
+						<PinX Unit="MM">1.811023645698415</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{515B7497-DD65-4F36-918A-8CB6B3FD33C0}" Name="Вариант использования" NameU="Use Case" Master="9">
+					<Text>Регистрация посещения </Text>
+					<XForm>
+						<PinX Unit="MM">3.855871044877699</PinX>
+						<PinY Unit="MM">5.669291150112420</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{941EA144-8429-488D-A60D-C7EC1466BC72}" Name="Вариант использования.9" NameU="Use Case.9" Master="9">
+					<Text>просмотор пользователей </Text>
+					<XForm>
+						<PinX Unit="MM">3.937007748368909</PinX>
+						<PinY Unit="MM">4.763779610338153</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{72677133-70D7-4CF5-A082-D07DB246CF23}" Name="Субъект.10" NameU="Actor.10" Master="7">
+					<Text>Администратор </Text>
+					<XForm>
+						<PinX Unit="MM">1.811023645698415</PinX>
+						<PinY Unit="MM">2.066929052187823</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{52ACE59A-8FA9-4B6A-A687-FF9F2F294D8E}" Name="Вариант использования.12" NameU="Use Case.12" Master="9">
+					<Text>вход  в систему </Text>
+					<XForm>
+						<PinX Unit="MM">6.102361984842442</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{9A3ADD7F-F33A-484A-AAC2-8781C76D4B82}" Name="Вариант использования.13" NameU="Use Case.13" Master="9">
+					<Text>просмотор докусетов </Text>
+					<XForm>
+						<PinX Unit="MM">3.456561555643892</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{20593D2B-5272-462B-B33E-9A14406493B9}" Name="Вариант использования.14" NameU="Use Case.14" Master="9">
+					<Text>просмотра статуса </Text>
+					<XForm>
+						<PinX Unit="MM">6.299212422519623</PinX>
+						<PinY Unit="MM">5.078739987857083</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{FD3EA804-D802-4EF8-B723-3D394A3A5599}" Name="Вариант использования.15" NameU="Use Case.15" Master="9">
+					<Text>управление пользователями </Text>
+					<XForm>
+						<PinX Unit="MM">3.866010468776659</PinX>
+						<PinY Unit="MM">2.696850441003130</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{B6BCB663-F430-4806-810E-65B59C4A6023}" Name="Вариант использования.16" NameU="Use Case.16" Master="9">
+					<Text>просмотор посещений</Text>
+					<XForm>
+						<PinX Unit="MM">3.543306998661386</PinX>
+						<PinY Unit="MM">1.791338548124285</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{E2D556FB-39F8-4F49-9722-342B3C245FB3}" Name="Вариант использования.17" NameU="Use Case.17" Master="9">
+					<Text>экспорт данных </Text>
+					<XForm>
+						<PinX Unit="MM">5.826771453986561</PinX>
+						<PinY Unit="MM">1.791338548124286</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{88033970-B93E-482A-B5B0-C52A2908F92B}" Name="Вариант использования.18" NameU="Use Case.18" Master="9">
+					<Text>настройка системы </Text>
+					<XForm>
+						<PinX Unit="MM">6.472178394217109</PinX>
+						<PinY Unit="MM">2.696850441003130</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{EE8FA9B3-580B-40D0-B3F0-20FC2E7FA495}" Name="Динамическая соединительная линия" NameU="Dynamic connector" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.658977347658328</PinX>
+						<PinY Unit="MM">5.289062600609423</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="20" UniqueID="{2C832879-C66D-4A1F-9D28-34B2E942CABB}" Name="Динамическая соединительная линия.20" NameU="Dynamic connector.20" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.536290565000551</PinX>
+						<PinY Unit="MM">4.932384468324681</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="21" UniqueID="{7CB2B5CF-15A4-4F1C-B003-2E7C96DA7134}" Name="Динамическая соединительная линия.21" NameU="Dynamic connector.21" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.779905609688937</PinX>
+						<PinY Unit="MM">5.045591354208455</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{2932EFFE-8BE9-4F54-83EB-864B24001F4C}" Name="Динамическая соединительная линия.22" NameU="Dynamic connector.22" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.322703409693927</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{2D5106C7-234E-4075-9935-EBCE93A404FF}" Name="Динамическая соединительная линия.23" NameU="Dynamic connector.23" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.322703409693927</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="27" UniqueID="{95F0C54B-C3F2-4944-B737-7B0897B5E9C8}" Name="Динамическая соединительная линия.27" NameU="Dynamic connector.27" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.415980358220608</PinX>
+						<PinY Unit="MM">1.970685949086101</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="28" UniqueID="{E86097F7-F41A-4DCD-9F5B-7BDAA7D1F5A7}" Name="Динамическая соединительная линия.28" NameU="Dynamic connector.28" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.322703409693927</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="29" UniqueID="{7E1F74EA-F0D5-4D87-B29B-F0AB4F7C3F57}" Name="Динамическая соединительная линия.29" NameU="Dynamic connector.29" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.553220793246828</PinX>
+						<PinY Unit="MM">1.947366516642146</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="30" UniqueID="{077B8BB2-BE77-448D-86CB-31FB3CED7610}" Name="Динамическая соединительная линия.30" NameU="Dynamic connector.30" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.639468834443766</PinX>
+						<PinY Unit="MM">2.320874886774792</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="31" UniqueID="{F397444D-7789-460B-9033-65C60A4D3EF8}" Name="Динамическая соединительная линия.31" NameU="Dynamic connector.31" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.900751001547862</PinX>
+						<PinY Unit="MM">2.349340606676624</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{DC5B92BA-7511-4D8C-A241-3D932A85305F}" Name="Динамическая соединительная линия.32" NameU="Dynamic connector.32" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.625984839768842</PinX>
+						<PinY Unit="MM">2.846858552796751</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{414C1550-6FE4-488A-B19C-9A23536A798C}" Name="Динамическая соединительная линия.33" NameU="Dynamic connector.33" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.825621365268479</PinX>
+						<PinY Unit="MM">2.806231070128852</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="35" UniqueID="{B4165548-A172-48EF-9000-97EC6DBBE890}" Name="Динамическая соединительная линия.35" NameU="Dynamic connector.35" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.806027427851543</PinX>
+						<PinY Unit="MM">4.379087524574426</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="36" UniqueID="{B8B1840E-C705-4236-9E8B-37C700FA1165}" Name="Динамическая соединительная линия.36" NameU="Dynamic connector.36" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.617334906815209</PinX>
+						<PinY Unit="MM">4.344490192719896</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="37" UniqueID="{8FE3B98F-95FC-43C1-BA95-6BF68B368E5F}" Name="Динамическая соединительная линия.37" NameU="Dynamic connector.37" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.814960410376406</PinX>
+						<PinY Unit="MM">3.641732330766909</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

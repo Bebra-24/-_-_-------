@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KeeperPRO/KeeperPRO.csproj" />
+  <Project Path="WpfApp1/WpfApp1.csproj" Id="8b621c7b-a6ae-485b-8d7c-1e461e9e5adb" />
+</Solution>

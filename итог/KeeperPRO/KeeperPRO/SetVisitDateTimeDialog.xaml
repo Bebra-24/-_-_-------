@@ -1,0 +1,30 @@
+﻿<Window x:Class="KeeperPRO.SetVisitDateTimeDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Установка даты и времени посещения" Height="280" Width="400"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Укажите дату и время посещения" FontSize="16" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+        <TextBlock Grid.Row="1" Text="Дата посещения:" Margin="0,5" Foreground="#555555"/>
+        <DatePicker x:Name="VisitDatePicker" Grid.Row="2" Height="32" Margin="0,0,0,15"/>
+
+        <TextBlock Grid.Row="3" Text="Время посещения (формат ЧЧ:ММ):" Margin="0,5" Foreground="#555555"/>
+        <TextBox x:Name="VisitTimeBox" Grid.Row="4" Height="32" Margin="0,0,0,15" MaxLength="5" Text="10:00"/>
+
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20">
+            <Button Content="OK" Width="80" Height="35" Margin="5" Background="#4CAF50" Foreground="White" Click="OkBtn_Click"/>
+            <Button Content="Отмена" Width="80" Height="35" Margin="5" Background="#F44336" Foreground="White" Click="CancelBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

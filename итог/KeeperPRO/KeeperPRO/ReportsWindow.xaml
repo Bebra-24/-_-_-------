@@ -1,0 +1,96 @@
+﻿<Window x:Class="KeeperPRO.ReportsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MAX.Х.ПРО - Отчёты" Height="650" Width="1100"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <Border Grid.Row="0" Background="#1a237e" CornerRadius="8" Padding="15" Margin="0,0,0,10">
+            <TextBlock Text="Отчёты системы контроля пропускного режима" FontSize="20" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Вкладки -->
+        <TabControl Grid.Row="1" Margin="0,0,0,10">
+            <!-- Вкладка 1: Количество посещений -->
+            <TabItem Header="Количество посещений">
+                <Border Padding="10" Background="#FAFAFA" CornerRadius="8">
+                    <StackPanel>
+                        <TextBlock Text="Период:" FontWeight="Bold" Margin="0,0,0,5"/>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                            <RadioButton x:Name="DayRadio" Content="День" GroupName="Period" Margin="0,0,15,0" IsChecked="True" Checked="Period_Changed"/>
+                            <RadioButton x:Name="MonthRadio" Content="Месяц" GroupName="Period" Margin="0,0,15,0" Checked="Period_Changed"/>
+                            <RadioButton x:Name="YearRadio" Content="Год" GroupName="Period" Checked="Period_Changed"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                            <TextBlock Text="Дата:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                            <DatePicker x:Name="ReportDatePicker" Width="150" Height="30" SelectedDateChanged="ReportDate_Changed"/>
+                            <Button x:Name="GenerateReportBtn" Content="Сформировать отчёт" Width="150" Height="30" Margin="20,0,0,0" 
+                                    Background="#2196F3" Foreground="White" Click="GenerateReportBtn_Click"/>
+                            <Button x:Name="ExportExcelBtn" Content="Экспорт в Excel" Width="150" Height="30" Margin="10,0,0,0" 
+                                    Background="#4CAF50" Foreground="White" Click="ExportExcelBtn_Click"/>
+                        </StackPanel>
+
+                        <Border BorderBrush="#E0E0E0" BorderThickness="1" CornerRadius="8" Padding="10">
+                            <DataGrid x:Name="VisitsGrid" AutoGenerateColumns="True" IsReadOnly="True" Height="350"/>
+                        </Border>
+                    </StackPanel>
+                </Border>
+            </TabItem>
+
+            <!-- Вкладка 2: Список лиц на территории -->
+            <TabItem Header="Лица на территории">
+                <Border Padding="10" Background="#FAFAFA" CornerRadius="8">
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                            <Button x:Name="RefreshCurrentBtn" Content="Обновить список" Width="150" Height="30" 
+                                    Background="#2196F3" Foreground="White" Click="RefreshCurrentBtn_Click"/>
+                            <Button x:Name="ExportCurrentExcelBtn" Content="Экспорт в Excel" Width="150" Height="30" Margin="10,0,0,0" 
+                                    Background="#4CAF50" Foreground="White" Click="ExportCurrentExcelBtn_Click"/>
+                        </StackPanel>
+
+                        <Border BorderBrush="#E0E0E0" BorderThickness="1" CornerRadius="8" Padding="10">
+                            <DataGrid x:Name="CurrentVisitorsGrid" AutoGenerateColumns="True" IsReadOnly="True" Height="400"/>
+                        </Border>
+                    </StackPanel>
+                </Border>
+            </TabItem>
+
+            <!-- Вкладка 3: Автоотчёт -->
+            <TabItem Header="Автоотчёт (каждые 3 часа)">
+                <Border Padding="10" Background="#FAFAFA" CornerRadius="8">
+                    <StackPanel>
+                        <TextBlock Text="Автоматическое формирование отчёта о количестве посетителей по подразделениям за каждые 3 часа" 
+                                   TextWrapping="Wrap" Margin="0,0,0,15"/>
+
+                        <Border Background="#FFF3CD" CornerRadius="5" Padding="10" Margin="0,0,0,15">
+                            <StackPanel>
+                                <TextBlock Text="Папка сохранения:" FontWeight="Bold"/>
+                                <TextBlock x:Name="ReportsFolderText" Text="" Foreground="#856404"/>
+                            </StackPanel>
+                        </Border>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Button x:Name="CreateManualReportBtn" Content="Создать отчёт сейчас" Width="200" Height="40" 
+                                    Background="#FF9800" Foreground="White" Click="CreateManualReportBtn_Click"/>
+                            <Button x:Name="OpenReportsFolderBtn" Content="Открыть папку с отчётами" Width="200" Height="40" Margin="10,0,0,0" 
+                                    Background="#607D8B" Foreground="White" Click="OpenReportsFolderBtn_Click"/>
+                        </StackPanel>
+
+                        <TextBlock x:Name="AutoReportStatus" Text="Статус: Ожидание..." Foreground="Gray" Margin="0,15,0,0" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+            </TabItem>
+        </TabControl>
+
+        <TextBlock x:Name="StatusText" Grid.Row="2" Text="Готов" Foreground="Green" HorizontalAlignment="Center" Margin="5"/>
+    </Grid>
+</Window>
